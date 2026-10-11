@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Kia_XCeed"
+
+generations:
+  - name: "First Generation (CD)"
+    start_year: 2019
+    end_year: null
+    description: "A crossover version of the third-generation Ceed, with gasoline, diesel, mild-hybrid and plug-in hybrid powertrains."
